@@ -1,1 +1,8 @@
-# Khoa_Hoc_Du_Lieu
+# MÔN HỌC: KHOA HỌC DỮ LIỆU
+## HỌ TÊN: NGUYỄN ĐỨC DƯƠNG
+## LỚP: K58KTP
+## MSSV: K225480106093
+## GVHD: TS. NGUYỄN VĂN HUY
+
+----
+
